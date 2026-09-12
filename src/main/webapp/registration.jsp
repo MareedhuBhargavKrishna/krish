@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
     <title>Exam Registration - Online Examination System</title>
     <style>
